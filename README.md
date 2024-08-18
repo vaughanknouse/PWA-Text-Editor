@@ -132,6 +132,6 @@ This project is licensed under the MIT license. For more information, please vis
 
 ## Questions
 
-For any questions or feedback, please contact me via email at vaughanknouse@gmail.com.
+For any questions or feedback, please contact me via email at <vaughanknouse@gmail.com>.
 
 Additionally, you can find me on GitHub at [vaughanknouse](https://github.com/vaughanknouse).
