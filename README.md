@@ -120,12 +120,11 @@ Deployed Application Link: \*\*\*
 
 Used the following starter code and sources as tutorials and guidelines:
 
-Starter code provided by UT Austin Coding Boot Camp at the following repository: <https://github.com/coding-boot-camp/cautious-meme>
+[Starter code repository provided by UT Austin Coding Boot Camp](https://github.com/coding-boot-camp/cautious-meme)
 
-ChatGPT: <https://chatgpt.com/?oai-dm=1>
+[ChatGPT](https://chatgpt.com/?oai-dm=1)
 
-Xpert Learning Assistant:
-<https://bootcampspot.instructure.com/courses/5293/external_tools/313>
+[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/5293/external_tools/313)
 
 ## License
 
