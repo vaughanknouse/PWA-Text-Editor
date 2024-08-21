@@ -15,7 +15,7 @@
   - [Screenshots \*\*\*](#screenshots-)
 - [Tests](#tests)
 - [Links \*\*\*](#links-)
-- [Credits \*\*\*](#credits-)
+- [Credits](#credits)
 - [License](#license)
 - [Questions](#questions)
 
@@ -92,19 +92,28 @@ After completing the installation, follow these steps to use the PWA Text Editor
 1. **Start the server**: Invoke the application using the following command:
 
    ```bash
-    npm start
+    npm run start
    ```
-
-   > [!NOTE]
-   > If you want the server to automatically restart whenever changes are saved, use the command `npm run dev` instead.
 
 ### Screenshots \*\*\*
 
 The following screenshots demonstrate the application's functionality and appearance:
 
-**Image of ....:**
+**Image of the deployed application with some text content stored:**
 
-![Shows ....](assets/images/**IMAGE-NAME**.png)
+![Shows image of deployed application with some text content stored.](assets/images/deployedApp-screenshot.png)
+
+**Image of the application's `manifest.json` file:**
+
+![Shows image of the application's 'manifest.json' file.](assets/images/manifest-screenshot.png)
+
+**Image of the application's registered service worker:**
+
+![Shows image of the application's registered service worker.](assets/images/serviceWorker-screenshot.png)
+
+**Image of the application's IndexedDB storage:**
+
+![Shows image of the application's IndexedDB storage.](assets/images/IndexedDB-screenshot.png)
 
 ## Tests
 
@@ -116,11 +125,19 @@ GitHub Repository: <https://github.com/vaughanknouse/PWA-Text-Editor>
 
 Deployed Application Link: \*\*\*
 
-## Credits \*\*\*
+## Credits
 
 Used the following starter code and sources as tutorials and guidelines:
 
 [Starter code repository provided by UT Austin Coding Boot Camp](https://github.com/coding-boot-camp/cautious-meme)
+
+[Webpack Documentation](https://webpack.js.org/)
+
+[Workbox Documentation](https://developer.chrome.com/docs/workbox/the-ways-of-workbox/#using-a-bundler)
+
+[IndexedDB Documentation](https://www.npmjs.com/package/idb)
+
+[concurrently Documentation](https://www.npmjs.com/package/concurrently)
 
 [ChatGPT](https://chatgpt.com/?oai-dm=1)
 
