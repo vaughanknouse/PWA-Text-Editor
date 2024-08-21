@@ -1,4 +1,4 @@
-# Progressive Web Applications (PWA): Text Editor <!-- omit in toc -->
+# PWA Text Editor <!-- omit in toc -->
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
