@@ -2,7 +2,15 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## Description \*\*\* <!-- omit in toc -->
+## Description <!-- omit in toc -->
+
+Developers often face data loss in web applications when internet connectivity is disrupted. To address this, the UT Austin Coding Boot Camp challenge this week involved using starter code to create a single-page text editor application that meets Progressive Web Application (PWA) criteria. This tool provides a seamless experience for creating notes or code snippets, ensuring that a user’s content is always saved and accessible, whether online or offline.
+
+The PWA Text Editor uses IndexedDB for data storage and service workers for caching static assets, enabling uninterrupted work even without internet access. It also supports desktop installation, enhancing reliability and accessibility. Bundled with Webpack and incorporating modern JavaScript features like async/await, the application is both robust and user-friendly.
+
+The project aims to blend the convenience of web applications with the reliability of desktop software. In an increasingly mobile and connected world, having access to your work anytime and anywhere is crucial. The PWA Text Editor ensures that your content remains safe and accessible, making it an invaluable tool for reliable note-taking and coding.
+
+Enjoy using the PWA Text Editor for your note-taking and coding needs, with the peace of mind that your content is always safe and accessible!
 
 ## Table of Contents <!-- omit in toc -->
 
