@@ -14,7 +14,7 @@
 - [Usage \*\*\*](#usage-)
   - [Screenshots](#screenshots)
 - [Tests](#tests)
-- [Links \*\*\*](#links-)
+- [Links](#links)
 - [Credits](#credits)
 - [License](#license)
 - [Questions](#questions)
@@ -119,11 +119,11 @@ The following screenshots demonstrate the application's functionality and appear
 
 There is no testing involved for this application.
 
-## Links \*\*\*
+## Links
 
 GitHub Repository: <https://github.com/vaughanknouse/PWA-Text-Editor>
 
-Deployed Application Link: \*\*\*
+Render Deployed Application Link: <https://pwa-text-editor-s2uc.onrender.com>
 
 ## Credits
 
