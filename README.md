@@ -109,7 +109,7 @@ The following screenshots demonstrate the application's functionality and appear
 
 **Image of the application's registered service worker:**
 
-![Shows image of the application's registered service worker.](assets/images/serviceWorker-screenshot.png)
+![Shows image of the application's registered service worker.](assets/images/serviceworker-screenshot.png)
 
 **Image of the application's IndexedDB storage:**
 
