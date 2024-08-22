@@ -12,7 +12,7 @@
 - [Features \*\*\*](#features-)
 - [Installation \*\*\*](#installation-)
 - [Usage \*\*\*](#usage-)
-  - [Screenshots \*\*\*](#screenshots-)
+  - [Screenshots](#screenshots)
 - [Tests](#tests)
 - [Links \*\*\*](#links-)
 - [Credits](#credits)
@@ -95,13 +95,13 @@ After completing the installation, follow these steps to use the PWA Text Editor
     npm run start
    ```
 
-### Screenshots \*\*\*
+### Screenshots
 
 The following screenshots demonstrate the application's functionality and appearance:
 
 **Image of the deployed application with some text content stored:**
 
-![Shows image of deployed application with some text content stored.](assets/images/deployedApp-screenshot.png)
+![Shows image of deployed application with some text content stored.](assets/images/deployedapp-screenshot.png)
 
 **Image of the application's `manifest.json` file:**
 
