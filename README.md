@@ -8,10 +8,10 @@
 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Technologies Used \*\*\*](#technologies-used-)
-- [Features \*\*\*](#features-)
-- [Installation \*\*\*](#installation-)
-- [Usage \*\*\*](#usage-)
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
   - [Screenshots](#screenshots)
 - [Tests](#tests)
 - [Links](#links)
@@ -57,13 +57,37 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
 
-## Technologies Used \*\*\*
+## Technologies Used
 
-## Features \*\*\*
+- **HTML**: For structuring the application layout.
+- **CSS**: For styling and enhancing the user interface and components
+- **JavaScript (ES6+)**: Core logic and functionality, including async/await for handling asynchronous operations.
+- IndexedDB: Browser-based database used for storing and retrieving text editor content locally in the browser.
+- **`idb` package**: A lightweight wrapper around IndexedDB, simplifying database operations for easier data management.
+- **Webpack**: Module bundler used for compiling JavaScript and CSS as well as generating the necessary service worker and `manifest.json` files.
+- **Babel**: JavaScript compiler that enables the use of modern JavaScript features across different browsers.
+- **Workbox**: Library used for creating and managing service workers, enabling offline functionality and caching.
+- **`WebpackPwaManifest` Plugin**: For automatically generating the `manifest.json` file required for PWA installation and functionality.
+- **Node.js**: JavaScript runtime environment for server-side scripting.
+- **Express.js**: Web application framework for managing server-side logic.
+- **Concurrently**: Utility to run multiple commands concurrently, used to manage server and client-side processes during development.
 
-## Installation \*\*\*
+## Features
 
-To install the PWA Text Editor, follow these steps:
+- **Offline Capability**: Users can seamlessly create, edit, and save text documents without an internet connection, thanks to service workers and IndexedDB integration.
+- **Auto-Save Functionality**: Automatically saves content and stores it locally when a user clicks off the DOM window, ensuring no data is lost.
+- **PWA Features**: Includes a service worker for offline functionality and a web app manifest for installation.
+- **PWA Installation**: The application can be installed on your desktop or mobile device as a Progressive Web App (PWA), providing a native app-like experience.
+- **Modern JavaScript Support**: Utilizes async/await for handling asynchronous operations and other ES6+ features, ensuring smooth and efficient operations and performance.
+- **Data Persistence**: Content is securely stored in IndexedDB, allowing for consistent retrieval across sessions.
+- **User-friendly Interface**: A clean and intuitive user interface for creating and managing text documents.
+- **Responsive Design**: Optimized for use on both desktop and mobile devices.
+
+## Installation
+
+There is no installation required if you would like to access the deployed PWA Text Editor application via Render, which is available here: <https://pwa-text-editor-s2uc.onrender.com>.
+
+However, if you would prefer to run the program locally, you can do so by following these steps:
 
 1. **Clone the Repository**:
 
@@ -85,15 +109,19 @@ To install the PWA Text Editor, follow these steps:
    npm install
    ```
 
-## Usage \*\*\*
+## Usage
 
-After completing the installation, follow these steps to use the PWA Text Editor:
+To use the deployed PWA Text Editor application, visit the following link hosted on Render: <https://pwa-text-editor-s2uc.onrender.com>.
+
+If you would like to use the application locally, follow these steps after completing the installation:
 
 1. **Start the server**: Invoke the application using the following command:
 
    ```bash
     npm run start
    ```
+
+2. **Navigate to the Application**: Once the application is running, open a browser window and navigate to <http://localhost:3000>. This will show the locally deployed PWA Text Editor application allowing you to start writing notes or code snippets.
 
 ### Screenshots
 
